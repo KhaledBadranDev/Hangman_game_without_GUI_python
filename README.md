@@ -1,7 +1,7 @@
 
 # Hangman-game-without-GUI
 
-This is a very simple hangman game made with python.
+This is a very simple hangman game made with python.<br>
 This Game can be run in the command line without a GUI. 
 
 
